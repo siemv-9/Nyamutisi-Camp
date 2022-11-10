@@ -1,0 +1,75 @@
+.backimgsimba {
+  background-image: url(../img/banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.sectn-2{
+  width: 100%;
+  height: 100vh;
+}
+
+.nyamatxt {
+  color: #e75317;
+  font-family: "papyrus";
+  font-size: 35px;
+}
+
+* {
+  font-family: "Gotham", sans-serif;
+}
+
+.psmalltxt{
+  font-size: 13px;
+}
+
+.middlesnaps{
+  width: 357px;
+  height: 390px;
+}
+
+.lionsnaps{
+  width: 220px;
+  height: 290px;
+}
+
+.lastsnaps{
+  width: 220px;
+  height: 340px;
+}
+
+.all2imgs{
+  padding: 20px;
+}
+
+button{
+  background-color: #e75317;
+  color: white;
+  border: none;
+  height: 40px;
+}
+
+.ind-txt{
+  font-size: 135px;
+  position: relative;
+  top: 165px;
+
+}
+
+.icon-1{
+  width: 100px;
+  height: 100px;
+}
+
+.icon-2{
+  width: 100px;
+  height: 100px;
+}
+
+.our_activities{
+  width: 100%;
+  height: 100vh;
+}
